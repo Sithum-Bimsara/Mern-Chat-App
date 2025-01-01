@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sithum-Bimsara/Mern-Chat-App.git
    cd chat-app-yt
    ```
 
@@ -39,6 +39,7 @@ Ensure you have the following installed:
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
+   NODE_ENV = development
    ```
 
 4. Start the application:
